@@ -1,0 +1,634 @@
+
+
+/* start navbar */
+.links{
+    margin-left: 125px;
+}
+
+.imgg:hover{
+    
+    transform: rotate(15deg);
+}
+
+
+
+.home{
+    font-weight: 600;
+    color: blue;
+}
+
+@media only screen and (max-width:414px){
+    
+  .home{
+    position: relative;
+    color: red;
+    right: 30px;
+  
+  }
+}
+
+
+
+.home:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+.team{
+    color: black;
+    font-weight: 600;
+}
+.team:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+
+.proj{
+    color: black;
+    font-weight: 600;
+}
+.proj:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+.project{
+    color: black;
+    font-weight: 600; 
+}
+
+.project:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+.Dash{
+    color: black;
+    font-weight: 600; 
+}
+
+.Dash:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+.pr{
+    color: black;
+    font-weight: 600; 
+}
+
+.pr:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+}
+
+
+
+.but{
+    margin-left: 10px;
+}
+
+.use{
+    margin-left: 10px;
+}
+
+.sear{
+    background-color: white;
+    border-radius: 25%;
+    width: 18px;
+    height: 18px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    
+}
+
+
+.use{
+    background-color: white;
+    border-radius: 25%;
+    width: 18px;
+    height: 18px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.but{
+    border-radius: 6px;
+    text-transform:capitalize ;
+}
+
+/* end navbar */
+
+/* start header */
+
+.letter h1{
+    font-weight: 800;
+    color: #007bff;
+}
+
+.letter p{
+    line-height: 1.8;
+    font-weight: 600;
+}
+
+.pagin{
+    margin-left: 80px;
+}
+
+@media only screen and (max-width:414px){
+    
+    .nike{
+      position: relative;
+     
+  left: -80px;
+  
+    
+    }
+  }
+  
+  @media only screen and (max-width:414px){
+      
+    .link{
+      position: relative;
+     
+      left: -30px;
+    
+    }
+  }
+  
+  @media only screen and (max-width:414px){
+      
+      .nevto{
+        position: relative;
+       
+        left: -430px;
+        top: 100px;
+      
+      }
+    }
+    
+  
+  
+    @media only screen and (max-width:414px){
+      
+      .google{
+        position: relative;
+       
+        left: -380px;
+        top: 100px;
+      
+      }
+    }
+  
+  
+    @media only screen and (max-width:414px){
+      
+      .orce{
+        position: relative;
+       
+        left: -660px;
+        top: 180px;
+      
+      }
+    }
+    
+    
+  
+  
+
+
+
+.one{
+    margin-left: 80px;
+    position: relative;
+    border-radius: 5px;
+    width: 31%;
+    
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: rgb(236, 240, 245);
+    box-shadow: 15px;
+   
+}
+
+
+@media only screen and (max-width:414px){
+    
+    .one{
+      margin-left: 10px;
+      width: 42%;
+    
+    }
+  }
+
+
+
+.one:hover{
+    background-color: rgb(201, 201, 202);
+    cursor: pointer;
+}
+
+.one h2{
+    color: #007bff;
+    font-weight: 600;
+
+    
+}
+
+.one p{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.sady{
+    
+   font-weight: 600;
+}
+
+
+
+  @media only screen and (max-width:414px){
+    
+    .crods{
+      margin-top: 220px;
+    
+    }
+  }
+  
+
+
+.two{
+    position: absolute;
+    margin-left: 310px;
+    top: 6px;
+    border-radius: 5px;
+    width: 30%;
+    box-shadow: 15px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 15px;
+    background-color: rgb(236, 240, 245);
+    
+}
+
+
+
+@media only screen and (max-width:414px){
+    
+    .two{
+      margin-left: 200px;
+      width: 42%;
+    
+    }
+  }
+
+
+.two:hover{
+    background-color: rgb(201, 201, 202);
+    cursor: pointer;
+}
+
+.two h2{
+    color: #007bff;
+    font-weight: 600;
+    margin-left: 25px;
+    
+    
+
+}
+
+.two p{
+    margin-left: 5px;
+    font-weight: 600;
+}
+
+
+
+
+.three{
+    margin-left: 80px;
+    position: relative;
+    border-radius: 5px;
+    width: 31%;
+    
+    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: rgb(236, 240, 245);
+    box-shadow: 15px;
+}
+
+
+@media only screen and (max-width:414px){
+    
+    .three{
+      margin-left: 10px;
+      width: 42%;
+    
+    }
+  }
+
+
+
+.three:hover{
+    background-color: rgb(201, 201, 202);
+    cursor: pointer;
+}
+
+.three h2{
+    position: relative;
+    color: #007bff;
+    font-weight: 600;
+    left: -7px;
+}
+
+
+
+.three p{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+
+.four{
+    position: absolute;
+    margin-left: 310px;
+    bottom: -1px;
+    border-radius: 5px;
+    width: 30%;
+    box-shadow: 15px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 15px;
+    background-color: rgb(236, 240, 245);
+}
+
+
+@media only screen and (max-width:414px){
+    
+    .four{
+      margin-left: 200px;
+      width: 42%;
+    
+    }
+  }
+
+
+
+.four:hover{
+    background-color: rgb(201, 201, 202);
+    cursor: pointer;
+}
+
+.four h2{
+    position: relative;
+    color: #007bff;
+    font-weight: 600;
+    left: -7px;
+}
+
+.four p{
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.mid h5{
+    font-weight: 700;
+}
+
+
+.mid h2{
+    font-weight: 700;
+    color: #007bff;
+
+}
+
+.mid span{
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+
+.us{
+ display: grid;
+ place-content: center;
+}
+
+.us h5{
+    margin-left: 70px;
+    font-weight: 700;
+}
+
+.us h2{
+    font-weight: 700;
+    color: #007bff;
+
+}
+
+.tv{
+margin-left: 135px;
+background-color: #e8eeee;
+width: 25px;
+height: 25px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 50%;
+}
+
+.tv:hover{
+    background-color: #007bff;
+    cursor: pointer;
+}
+
+
+.cards h5{
+    margin-left: 52px;
+    font-weight: 600;
+}
+
+.cards p{
+    margin-left: 28px;
+}
+
+.cards span{
+    color: #007bff;
+    margin-left: 110px;
+}
+
+.tree{
+    margin-left: 135px;
+background-color: #e8eeee;
+width: 25px;
+height: 25px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 50%;
+}
+
+.tree:hover{
+    background-color: #007bff;
+    cursor: pointer;
+}
+
+.vid{
+    margin-left: 135px;
+    background-color: #e8eeee;
+    width: 25px;
+    height: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+}
+
+.vid:hover{
+    background-color: #007bff;
+    cursor: pointer;
+}
+
+.pro{
+    height: 10px;
+}
+
+.pro:hover{
+    background-color:#007bff;
+    border-radius: 5px;
+    color: white;
+    height: 10px;
+    cursor: copy;
+}
+
+
+.middle span{
+    font-weight: 600;
+}
+
+.middle h2{
+    color: #007bff;
+    font-weight: 700;
+}
+
+.middle h5{
+    font-weight: 600;
+}
+
+.foot{
+    background-color: #007bff;
+    border-radius: 8px;
+    height: 195px;
+    display: grid;
+    place-content: center;
+}
+
+.see{
+   height: 45px;
+   position: relative;
+   
+}
+
+
+@media only screen and (max-width:414px){
+    
+    .see{
+   padding-left: 15px;
+    
+    }
+  }
+
+
+
+.send{
+    position: absolute;
+    top: 145px;
+    left: 64%;
+}
+
+
+@media only screen and (max-width:414px){
+    
+    .send{
+      margin-left: 95px;
+      margin-top: 10px;
+     
+    
+    }
+  }
+
+
+
+  @media only screen and (max-width:414px){
+    
+    .icons{
+      margin-left: 35px;
+      padding-top: 25px;
+     
+    
+    }
+  }
+
+
+
+
+
+  
+@media only screen and (max-width:414px){
+    
+    .footer{
+      height: 1650px;
+    
+    }
+  }
+
+
+
+.foot h2{
+    color:white;
+    font-weight: 700;
+}
+
+.foot p{
+    color: white;
+}
+
+
+
+.cofe{
+    position: absolute;
+    left: -170px;
+    bottom: 20px;
+}
+
+.cofe:hover{
+    transform: rotate(15deg);
+    cursor: pointer;
+}
+
+.footer{
+    background-color:#e7ecf1;
+}
